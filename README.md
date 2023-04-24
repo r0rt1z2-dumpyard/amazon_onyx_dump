@@ -1,0 +1,19 @@
+## onyx-user 9 PS7326.3178N 0025602845184 amz-p,release-keys
+- Manufacturer: amazon
+- Platform: mt8168
+- Codename: onyx
+- Brand: Amazon
+- Flavor: onyx-user
+- Release Version: 9
+- Kernel Version: 4.14.87
+- Id: PS7326.3178N
+- Incremental: 0025602845316
+- Tags: amz-p,release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Amazon/onyx/onyx:9/PS7326.3178N/0025602845184:user/amz-p,release-keys
+- OTA version: 
+- Branch: onyx-user-9-PS7326.3178N-0025602845184-amz-p,release-keys
+- Repo: amazon_onyx_dump
